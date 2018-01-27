@@ -8,8 +8,8 @@ if(a>0)
 {
 printf("positive");
 }
-elseif(a<0)
+else if(a<0)
 {printf("negative");}
 else
-printf(zero);
+printf("zero");
 }
